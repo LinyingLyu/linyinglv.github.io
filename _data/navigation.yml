@@ -23,11 +23,11 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/CV_LinyingLv.pdf
-    
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /files/CV_LinyingLv.pdf
+    
+  - title: "CV"
+    url: "https://www.dropbox.com/scl/fi/mn9jy1jlam7ki18j1npxr/CV_LinyingLv.pdf?rlkey=4ln0uv71p64i9agcibxqycbe1&dl=0"
     
   # - title: "Guide"
   #   url: /markdown/
