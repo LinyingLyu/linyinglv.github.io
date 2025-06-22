@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a postdoctoral researcher at Olin Business School, Washington University in St. Louis, working under the supervision of Prof. [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/) and Prof. [Asaf Manela](https://asafmanela.github.io/). My research interests include (Generative) AI in finance, textual analysis, and sell-side analysts. I enjoy both consuming and producing LLMs for financial applications.
+Welcome to my website! I am a postdoctoral researcher at Olin Business School, Washington University in St. Louis. I'm fortunate to be advised by Prof. [Guofu Zhou](https://apps.olin.wustl.edu/faculty/zhou/) and Prof. [Asaf Manela](https://asafmanela.github.io/). My research interests include (Generative) AI in finance, textual analysis, and sell-side analysts. I enjoy both consuming and producing LLMs for financial applications.
 
 ### Contact
 - llyu [at] wustl [dot] edu
