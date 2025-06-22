@@ -23,9 +23,6 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
   M.S. in Finance (2018–2020)  
   B.A. in Finance (2014–2018)
 
-## Research Interests
-(Generative) AI in Finance, Textual Analysis, Sell-side Analysts, Monetary Policy
-
 ## Working Papers
 - [*The Value of Information from Sell-side Analysts*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003916) (Job Market Paper)  
 - [*Empirical Asset Pricing with Probability Forecasts*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
