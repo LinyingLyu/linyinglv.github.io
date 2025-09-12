@@ -21,21 +21,25 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
 - **Zhejiang University**, School of Economics  
   Ph.D. in Finance (2020–2024)  
   M.S. in Finance (2018–2020)  
-  B.A. in Finance (2014–2018)
+  B.S. in Finance (2014–2018)
 
 ## Working Papers
 1. [**The Value of Information from Sell-side Analysts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003916) *(Job Market Paper)*  
+   *Status:* Revise & Resubmit at Journal of Financial Economics
    *Selected Conferences:* 7th Future of Financial Information Conference (2025), AFA Poster Session (2025), AFFECT (2025), 1st Workshop on LLMs & Generative AI in Finance at NYU (2024), SoFiE (2024), 8th Wolfe Research QES (2024)
 
-2. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
+2. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with Songrun He, Asaf Manela, and Jimmy Wu)  
+   *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
+
+3. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
-3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with Songrun He, Asaf Manela, and Jimmy Wu)  
-   *Selected Conferences:* NBER Summer Institute (2025, scheduled), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
+4. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)
+   *Selected Conferences:* AFA poster (2026, scheduled)
+   
+5. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with Songrun He, Jiaen Li, and Guofu Zhou)
 
-4. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with Songrun He, Jiaen Li, and Guofu Zhou)  
-
-5. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)  
+6. [**Chronologically Consistent Generative AI**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with Songrun He, Asaf Manela, and Jimmy Wu)
 
 ## Publications
 - **The Real Effect of Monetary Policy under Uncertainty: Evidence from the Change in Corporate Financing Purposes**  
