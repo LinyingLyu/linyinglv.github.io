@@ -29,21 +29,22 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
    
    *Selected Conferences:* 7th Future of Financial Information Conference (2025), AFA Poster Session (2025), AFFECT (2025), 1st Workshop on LLMs & Generative AI in Finance at NYU (2024), SoFiE (2024), 8th Wolfe Research QES (2024)
 
-3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with Songrun He, Asaf Manela, and Jimmy Wu)  
+2. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with Songrun He, Asaf Manela, and Jimmy Wu)\
+   **Invited for Submission and Revise & Resubmit at Journal of Financial Economics**
 
    *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
 
-5. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
+3. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
-6. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)
+4. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)
 
    *Selected Conferences:* AFA poster (2026, scheduled)
    
-7. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with Songrun He, Jiaen Li, and Guofu Zhou)
+5. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with Songrun He, Jiaen Li, and Guofu Zhou)
 
-8. [**Chronologically Consistent Generative AI**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with Songrun He, Asaf Manela, and Jimmy Wu)
+6. [**Chronologically Consistent Generative AI**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with Songrun He, Asaf Manela, and Jimmy Wu)
 
 ## Publications
 - **The Real Effect of Monetary Policy under Uncertainty: Evidence from the Change in Corporate Financing Purposes**  
