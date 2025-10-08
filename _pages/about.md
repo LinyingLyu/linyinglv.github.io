@@ -38,7 +38,8 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
-4. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)
+4. [**Do Sell-side Analyst Reports Have Investment Value?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5158214) (solo author)\
+   **Winner of 2025 Jack Treynor Prize**
 
    *Selected Conferences:* AFA poster (2026, scheduled)
    
