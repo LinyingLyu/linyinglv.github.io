@@ -39,7 +39,7 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
    </details>
 
 3. [**Chronologically Consistent Large Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5159615) (with Songrun He, Asaf Manela, and Jimmy Wu)\
-   **Invited for Submission and Revise & Resubmit at Journal of Financial Economics**
+   **Revise & Resubmit at Journal of Financial Economics**
 
    *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
 
