@@ -43,7 +43,8 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
 
    *Selected Conferences:* NBER Summer Institute (2025), AFA (2026, scheduled), ABFR Webinar (2025), Federal Reserve Board (2025)
 
-4. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)  
+4. [**Empirical Asset Pricing with Probability Forecasts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4717935) (with Songrun He and Guofu Zhou)\
+   **Revise & Resubmit at Management Science**  
 
    *Selected Conferences:* AFA (2025), 8th Wolfe Research QES (2024)
 
