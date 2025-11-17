@@ -55,7 +55,7 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
    
 6. [**How Accurate are Survey Forecasts on the Market**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4390165) (with Songrun He, Jiaen Li, and Guofu Zhou)
 
-7. [**Chronologically Consistent Generative AI**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with Songrun He, Asaf Manela, and Jimmy Wu)
+7. [**Instruction Tuning Chronologically Consistent Language Models**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5348747) (with Songrun He, Asaf Manela, and Jimmy Wu)
 
 ## Publications
 - **The Real Effect of Monetary Policy under Uncertainty: Evidence from the Change in Corporate Financing Purposes**  
