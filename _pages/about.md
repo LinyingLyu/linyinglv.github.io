@@ -29,7 +29,7 @@ Welcome to my website! I am a postdoctoral researcher at Olin Business School, W
 1. [**The Value of Information from Sell-side Analysts**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003916) *(Job Market Paper)*  
    **Revise & Resubmit at Journal of Financial Economics**
    
-   *Selected Conferences:* 7th Future of Financial Information Conference (2025), AFA Poster Session (2025), AFFECT (2025), 1st Workshop on LLMs & Generative AI in Finance at NYU (2024), SoFiE (2024), 8th Wolfe Research QES (2024)
+   *Selected Conferences:* 7th Future of Financial Information Conference (2025), AFA Poster Session (2025), AFFECT (2025), ABFR Doctoral Research Symposium (2025), IMIM Rising Stars Seminar Series (2025), 1st Workshop on LLMs & Generative AI in Finance at NYU (2024), SoFiE (2024), 8th Wolfe Research QES (2024)
 
    <details>
    <summary>Abstract</summary>
